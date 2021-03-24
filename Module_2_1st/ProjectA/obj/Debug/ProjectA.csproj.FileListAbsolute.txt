@@ -1,0 +1,20 @@
+C:\Users\ABU BAKAR\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\ABU BAKAR\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\ABU BAKAR\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\ABU BAKAR\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\ABU BAKAR\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\ABU BAKAR\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+G:\1. CSharp Files\2.Visual Studio\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+G:\1. CSharp Files\2.Visual Studio\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+G:\1. CSharp Files\2.Visual Studio\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+G:\1. CSharp Files\2.Visual Studio\ProjectA\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+G:\1. CSharp Files\2.Visual Studio\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+G:\1. CSharp Files\2.Visual Studio\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+G:\1. CSharp Files\2.Visual Studio\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+G:\Project\Module_2_1st\ProjectA\bin\Debug\ProjectA.exe.config
+G:\Project\Module_2_1st\ProjectA\bin\Debug\ProjectA.exe
+G:\Project\Module_2_1st\ProjectA\bin\Debug\ProjectA.pdb
+G:\Project\Module_2_1st\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+G:\Project\Module_2_1st\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+G:\Project\Module_2_1st\ProjectA\obj\Debug\ProjectA.exe
+G:\Project\Module_2_1st\ProjectA\obj\Debug\ProjectA.pdb
